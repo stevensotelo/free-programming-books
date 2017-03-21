@@ -23,7 +23,6 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Swift](#swift)
-* [Windows Phone](#windowsphone)
 
 
 ### Android
@@ -88,7 +87,6 @@
 ### Java
 
 * [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
-* [Java Yazılım Tasarımı](http://tdsoftware.net/2011/09/23/java-yazalim-tasarimi-kitabi-pdf/)
 
 
 ### JavaScript
@@ -131,7 +129,6 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek](http://yzgrafik.ege.edu.tr/~tekrei/dersler/bbgd_p/BBGD_PIO.pdf) (PDF)
 * [Python ile Programlama](http://belgeler.istihza.com/py3/)
 
 
