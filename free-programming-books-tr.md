@@ -38,7 +38,6 @@
 ### C
 
 * [C Programlama Diline Giriş](http://www1.gantep.edu.tr/~bingul/c/index.php)
-* [C Programlamaya Giriş](https://www.inonu.edu.tr/uploads/old/16/735/c-programlamaya-giris.pdf) (PDF)
 * [Programlamaya Giriş Ders Notları, H. Turgut Uyar](http://web.itu.edu.tr/uyar/programlama/)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları - Uyarlama 1](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
@@ -124,7 +123,7 @@
 
 ### Python
 
-* [Python ile Programlama](http://belgeler.istihza.com/py3/)
+* [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
 
 
 ### R
