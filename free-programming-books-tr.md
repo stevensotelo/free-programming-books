@@ -11,18 +11,17 @@
 * [Go](#go)
 * [Html](#html)
 * [iOS](#ios)
-* [Java](#java)
 * [JavaScript](#javascript)
-* [Kriptoloji](#kriptoloji)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Matlab](#matlab)
+* [.NET Framework](#net-framework)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Swift](#swift)
 
 
 ### Android
@@ -65,6 +64,7 @@
 ### Git
 
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
+* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) by [Ali Özgür](https://github.com/aliozgur)
 
 
 ### Go
@@ -83,19 +83,9 @@
 * [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
-### Java
-
-* [Java 8 Kitabı](http://kodcu.com/java-8-ebook/)
-
-
 ### JavaScript
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
-
-### Kriptoloji
-
-* [Kriptolojiye Giris](http://iam.metu.edu.tr/sites/iam.metu.edu.tr/files/UYGULAMALI%20MATEMAT_Kriptolojiye%20giris%20ders%20notlar%C4%B1.pdf) (PDF)
 
 
 ### LaTeX
@@ -116,6 +106,11 @@
 * [Matlab Programlamaya Giris](http://ismailari.com/blog/matlab-programlamaya-giris/)
 
 
+### .NET Framework
+
+* [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
+
+
 ### PHP
 
 * [PHP - Laravel 4 Türkçe Dokumantasyon](https://leanpub.com/laravel4-tr)
@@ -123,7 +118,13 @@
 
 ### Python
 
+* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](http://ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python ile Programlama](https://belgeler.yazbel.com/python-istihza/)
+
+
+### Django
+
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### R
@@ -144,7 +145,3 @@
 
 * [Rust'a Giriş](http://bit.ly/rustagiris)
 
-
-### Swift
-
-* [Swift Türkiye](http://www.swiftturkiye.org)

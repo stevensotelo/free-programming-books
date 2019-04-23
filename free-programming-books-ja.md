@@ -90,7 +90,7 @@
 
 * [DirectX を使った初めての Windows ストア アプリの作成](https://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
-* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) - Apple Developer (PDF)
+* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
 * [はじめてのBlenderアドオン開発](https://nutti.gitbooks.io/introduction-to-add-on-development-in-blender/) - nutti
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
@@ -142,7 +142,7 @@
 * [組込みシステムの安全性向上の勧め（機能安全編）](http://www.ipa.go.jp/files/000005118.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発におけるプロジェクトマネジメント導入の勧め](http://www.ipa.go.jp/files/000005105.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](http://www.ipa.go.jp/files/000027629.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編] ](http://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編]](http://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](http://www.ipa.go.jp/files/000005113.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め（コーディング編）](http://www.ipa.go.jp/files/000005106.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](http://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -319,7 +319,6 @@
 
 ### Groovy
 
-* [Groovy入門](http://www.oki-osk.jp/esc/groovy/) - OKIソフトウェア
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) - JGGUG(日本Grails/Groovyユーザーグループ) (PDF, EPUB)
 
 
@@ -415,7 +414,7 @@
 
 ### Julia
 
-* [Julia 0.3.8](http://stat.biopapyrus.net/julia/) - 孫建強
+* [Julia 0.3.8](https://stats.biopapyrus.jp/julia) - 孫建強
 * [Julia Language Programming](http://www.geocities.jp/m_hiroi/light/julia.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 
@@ -477,13 +476,8 @@
 
 ### OCaml
 
-* [Objective Caml 入門](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
+* [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 * [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html) - 広井誠
-
-
-### openFrameworks
-
-* [Beyond Interaction - メディアアートのためのopenFrameworksプログラミング入門](http://download.bnn.co.jp/download/beyond_interaction/BNN_BeyondInteraction.pdf) - 田所淳・比嘉了・久保田晃弘 (PDF) (※書籍を作者がCCライセンスで公開)
 
 
 ### Perl
@@ -532,7 +526,7 @@
 * [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/) - Python Software Foundation
-* [Python 3.4 / NumPy / SciPy](http://stat.biopapyrus.net/python/) - 孫建強
+* [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [python で心理実験](http://www.s12600.net/psy/python/) - 十河宏行
 * [Python で音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
@@ -556,10 +550,8 @@
 
 ### R
 
+* [R](https://stats.biopapyrus.jp/r) - 孫建強
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-* [R グラフィックス](http://stat.biopapyrus.net/graph/) - 孫建強
-* [R プログラミング](http://stat.biopapyrus.net/r/) - 孫建強
-* [R プログラミング / 発展編](http://stat.biopapyrus.net/dev/) - 孫建強
 * [R 入門](http://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
 * [R 言語定義](http://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
@@ -609,7 +601,7 @@
 
 ### Scratch
 
-* [炎の型 With Scratch (ゲームプログラム入門) ](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
+* [炎の型 With Scratch (ゲームプログラム入門)](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
 
 
 ### sed
